@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Henrik1969
 - 👀 I’m interested in c/c++ sql and programming small tools on my linux mascine
-- 🌱 I’m currently learning more c/c++
+- 🌱 I’m currently working on a default framework in c++ to provide generic facilitation to projects (environment, commandline argument handeling , Logging) 
 - 📫 How to reach me :henriksorensen1969@gmail.com Include github on the titleline so my sorting shows you ;)
 
 <!---
