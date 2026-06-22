@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @Henrik1969
 - 👀 I’m interested in c/c++ sql and programming small tools on my linux machine
-- 🌱 I’m currently working on small cli tools 
+- 🌱 I’m currently working on a range of small cli tools
+     A language ide.
+     misc stuff. ;) 
+     I do it in any way I find interesting, because I am a hobbyist, and do it
+     because I can ;) and not because I am obligated. ;) 
 - 📫 How to reach me :henriksorensen1969@gmail.com Include githubbuddy on the titleline so my sorting shows you ;)
 
 <!---
