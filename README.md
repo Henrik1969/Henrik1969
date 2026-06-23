@@ -92,7 +92,7 @@ Examples and running notes
 
 ```bash
 cmake -S . -B build
-cmake --build build -j20
+cmake --build build -j$(nproc)
 ```
 
 - Run examples with flowmini (flowmini currently reads input only via stdin, except for flags):
