@@ -14,21 +14,23 @@ My main interests are:
 Table of contents
 
 - [Flowcore](#flowcore)
-  - [flowmini v12 — fn value-bound ports](#flowmini-v12---fn-value-bound-ports)
-  - [flowmini v10 — compound expressions](#flowmini-v10---compound-expressions)
+  - flowmini v22 — Unit Kinds (latest)
+  - flowmini v12 — fn value-bound ports
+  - flowmini v10 — compound expressions
 - [Other public repositories](#other-public-repositories)
 - [Older / inactive repositories](#older--inactive-repositories)
 - [Contact](#contact)
 
 ## Flowcore
 
-- [**Flowcore / flowmini**](https://github.com/Henrik1969/Flowcore) — experimental graph/contract/flow-oriented programming language (unstable, experimental). The current prototype is Flowmini.
+- [**Flowcore / flowmini**](https://github.com/Henrik1969/Flowcore) — experimental graph/contract/flow-oriented programming language. The current prototype is Flowmini.
 
-  Status: Unstable / experimental (latest stage: flowmini). Earlier stages are kept for reference and development history and are linked below.
+  Status: Unstable / experimental (latest stage: flowmini v22). Earlier stages are kept for reference and development history and are linked below.
 
   Staged READMEs:
 
-  - [flowmini v12 — fn value-bound ports](https://github.com/Henrik1969/Flowcore/blob/main/Flowmini/flowmini_v12_fn_value_ports/README.md) — introduces a first function layer (value-bound argument/return ports), non-recursive calls, and an explicit lowering model for functions. Status: Unstable / experimental.
+  - [flowmini v22 — Unit Kinds](https://github.com/Henrik1969/Flowcore/blob/main/Flowmini/flowmini_v22_unit_kinds/README.md) — introduces the first hard source-role boundary (program vs unit), categorized example layout, and a test-oriented example runner. Status: Unstable / experimental (latest).
+  - [flowmini v12 — fn value-bound ports](https://github.com/Henrik1969/Flowcore/blob/main/Flowmini/flowmini_v12_fn_value_ports/README.md) — introduces a first function layer (value-bound argument/return ports) and an explicit lowering model for functions. Status: Reference / development history.
   - [flowmini v10 — compound expressions](https://github.com/Henrik1969/Flowcore/blob/main/Flowmini/flowmini_v10_compound_expressions/README.md) — adds compound value expressions while preserving a separate predicate/control layer and demonstrates lowering to an explicit primitive graph IR. Status: Reference / development history.
 
   Examples and running notes
