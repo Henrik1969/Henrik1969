@@ -13,7 +13,13 @@ My main interests are:
 
 Current main project:
 
-- [[**Flowcore / flowmini**]] — an experimental graph/contract/flow-oriented language project exploring nodes, ports, wires, signals, diagnostics, policy envelopes, and staged lowering.
+- [**Flowcore / flowmini**](https://github.com/Henrik1969/Flowcore) — an experimental graph/contract/flow-oriented language project exploring nodes, ports, wires, signals, diagnostics, policy envelopes, and staged lowering.
+
+Other public repositories
+
+- [ckb-next](https://github.com/Henrik1969/ckb-next) — RGB Driver for Linux (fork)
+- [ggerganov_llama.cpp](https://github.com/Henrik1969/ggerganov_llama.cpp) — fork of ggerganov's llama.cpp
+- [json](https://github.com/Henrik1969/json) — JSON for Modern C++ (fork)
 
 Older / inactive repositories:
 
