@@ -13,7 +13,10 @@ My main interests are:
 
 Current main project:
 
-- [**Flowcore / flowmini**](https://github.com/Henrik1969/Flowcore) — an experimental graph/contract/flow-oriented language project exploring nodes, ports, wires, signals, diagnostics, policy envelopes, and staged lowering.
+- [**Flowcore / flowmini**](https://github.com/Henrik1969/Flowcore) — experimental graph/contract/flow-oriented programming language (unstable, experimental). Flowmini is the current prototype used to explore syntax, primitive graph IR lowering, staged execution, diagnostics, and language design.
+
+  - [flowmini v10 — compound expressions](https://github.com/Henrik1969/Flowcore/blob/main/Flowmini/flowmini_v10_compound_expressions/README.md) — adds compound value expressions while preserving a separate predicate/control layer; demonstrates lowering to an explicit primitive graph IR.
+  - [flowmini v12 — fn value-bound ports](https://github.com/Henrik1969/Flowcore/blob/main/Flowmini/flowmini_v12_fn_value_ports/README.md) — introduces a first function layer (value-bound argument/return ports), non-recursive calls, and an explicit lowering model for functions.
 
 Other public repositories
 
