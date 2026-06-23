@@ -13,7 +13,7 @@ My main interests are:
 
 Current main project:
 
-- **Flowcore / flowmini** — an experimental graph/contract/flow-oriented language project exploring nodes, ports, wires, signals, diagnostics, policy envelopes, and staged lowering.
+- [[**Flowcore / flowmini**]] — an experimental graph/contract/flow-oriented language project exploring nodes, ports, wires, signals, diagnostics, policy envelopes, and staged lowering.
 
 Older / inactive repositories:
 
