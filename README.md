@@ -57,8 +57,6 @@ Small, focused C++ library bricks for argument parsing and AST / data-structure 
 
 ## Flowcore development
 
-## Flowcore development
-
 Flowcore is my experimental language/system-architecture project.
 
 The current active line is:
