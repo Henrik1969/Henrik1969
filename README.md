@@ -30,7 +30,7 @@ An experimental graph/contract/flow-oriented programming language project center
 
 Current active version:
 ```text
-flowmini_v22_unit_kinds
+Flowmini/flowmini_v29_reusable_native_chain
 ```
 
 - [Flowcore repository](https://github.com/Henrik1969/Flowcore)
