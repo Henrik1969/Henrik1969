@@ -22,19 +22,24 @@ A C++20 configuration resolution engine for layered sources, validation, provena
 
 - [ConfigResolve repository](https://github.com/Henrik1969/ConfigResolve)
 
-### Flowcore
+### Lyraform
 
-An experimental graph/contract/flow-oriented programming language project centered on explicit contracts, source structure, ASTs, graph-shaped execution, policy envelopes, lowering layers, and systems modeling.
+An experimental graph/contract/flow-oriented programming language and system-
+architecture project, previously developed under the name Flowcore. It is
+centered on explicit contracts, source structure, ASTs, graph-shaped execution,
+policy envelopes, lowering layers, and systems modeling.
 
-**Status**: Experimental, unstable, not production-ready. Currently contains flowmini prototype versions and syntax experiments. Repository is a raw design/implementation workspace.
+**Status**: Experimental, unstable, not production-ready. The current language
+and semantic model is Lyraform; Flowmini remains its historical prototype and
+bootstrap lineage.
 
 Current active version:
 ```text
-Flowmini/flowmini_v29_reusable_native_chain
+Lyraform/compiler
 ```
 
-- [Flowcore repository](https://github.com/Henrik1969/Flowcore)
-- [Flowmini README](https://github.com/Henrik1969/Flowcore/blob/main/README.md)
+- [Lyraform repository](https://github.com/Henrik1969/Lyraform)
+- [Lyraform README](https://github.com/Henrik1969/Lyraform/blob/main/README.md)
 
 ### TextLib
 
@@ -48,7 +53,7 @@ A C++20, representation-independent text abstract data type for editors, viewers
 
 A constitutional umbrella and governance layer for a family of independently owned projects. Owns shared architectural policies, cross-project contracts, and shared tooling rather than private implementations.
 
-**Status**: Early-stage constitutional organization. Establishes canonical architectural laws and cross-project conformance rules. Current children include Flowcore and FrankenPOP (independent repositories).
+**Status**: Early-stage constitutional organization. Establishes canonical architectural laws and cross-project conformance rules. Current children include Lyraform and FrankenPOP (independent repositories).
 
 - [FrankenCore repository](https://github.com/Henrik1969/FrankenCore)
 
@@ -58,7 +63,7 @@ A C++20 policy-free symbol table library designed for language and compiler expe
 
 **Status**: Experimental. Developed within Flowcore as a reusable library brick. Located in Flowcore's subprojects directory.
 
-- [SymbolTable in Flowcore](https://github.com/Henrik1969/Flowcore/tree/master/subprojects/SymbolTable)
+- [SymbolTable in Lyraform](https://github.com/Henrik1969/Lyraform/tree/master/subprojects/SymbolTable)
 
 ### Other public repositories
 
@@ -70,7 +75,7 @@ A C++20 policy-free symbol table library designed for language and compiler expe
 
 - **Stable**: ConfigResolve
 - **Active development**: TextLib
-- **Experimental**: Flowcore (language design workspace), FrankenCore (constitutional umbrella)
+- **Experimental**: Lyraform (language design workspace), FrankenCore (constitutional umbrella)
 - **Archive/Reference**: Forks and historical repositories
 
 ## Contact
