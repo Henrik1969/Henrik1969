@@ -34,7 +34,7 @@ Flowmini/flowmini_v29_reusable_native_chain
 ```
 
 - [Flowcore repository](https://github.com/Henrik1969/Flowcore)
-- [Flowmini README](https://github.com/Henrik1969/Flowcore/blob/main/README.md))
+- [Flowmini README](https://github.com/Henrik1969/Flowcore/blob/main/README.md)
 
 ### TextLib
 
